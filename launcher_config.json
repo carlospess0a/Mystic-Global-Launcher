@@ -8,6 +8,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/carlospess0a/Mystic-Global-Client/archive/refs/tags/mystic-global-1.0.zip",
+	"newClientUrl" : "https://github.com/carlospess0a/Mystic-Global-Client/releases/download/mystic-global-1.0/mystic-global.zip",
 	"clientExecutable": "client.exe"
 }
