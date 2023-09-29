@@ -1,0 +1,13 @@
+{
+	"clientVersion": "13.21.13839",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		}
+	],
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/carlospess0a/Mystic-Global-Client/archive/refs/tags/mystic-global-1.0.zip",
+	"clientExecutable": "client.exe"
+}
