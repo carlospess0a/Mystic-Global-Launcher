@@ -7,7 +7,7 @@
 			"name": "assets"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "",
 	"newClientUrl" : "https://github.com/carlospess0a/Mystic-Global-Client/archive/refs/tags/mystic-global-1.0.zip",
 	"clientExecutable": "client.exe"
 }
