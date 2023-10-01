@@ -5,6 +5,9 @@
 	"replaceFolderName": [
 		{
 			"name": "assets"
+		},
+		{
+			"name": "bin"
 		}
 	],
 	"clientFolder": "",
