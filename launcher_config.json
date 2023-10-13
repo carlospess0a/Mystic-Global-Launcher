@@ -1,6 +1,6 @@
 {
-	"clientVersion": "1.6",
-	"launcherVersion": "1.6",
+	"clientVersion": "1.7",
+	"launcherVersion": "1.7",
 	"replaceFolders": false,
 	"replaceFolderName": [
 		{
@@ -11,6 +11,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/carlospess0a/Mystic-Global-Launcher/releases/download/1.0.0/mysticglobal.zip",
+	"newClientUrl" : "https://mysticglobal.com.br/mystic-global.zip",
 	"clientExecutable": "client.exe"
 }
